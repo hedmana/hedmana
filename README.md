@@ -1,4 +1,6 @@
-![Alt Text](gifs/welcome.gif)
+<p align="center">
+  <img src="gifs/welcome.gif" alt="Welcome!">
+</p>
 
 ## :link: Links
 
