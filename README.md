@@ -1,3 +1,7 @@
+<div style="width: 100%;">
+  <img src="https://github.com/hedmana/js_web_apps/blob/main/fireworks/index.html" style="width: 100%;" alt="Click to see the source">
+</div>
+
 ## :link: Links
 
 <p align="center">
