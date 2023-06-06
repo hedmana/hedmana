@@ -1,16 +1,14 @@
-### Hi there 👋
+## :link: Links
 
-<!--
-**hedmana/hedmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href=""><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href=""><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href=""><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <a href=""><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href=""><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+  <a href=""><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href=""><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
+  <a href=""><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+  <a href=""><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
