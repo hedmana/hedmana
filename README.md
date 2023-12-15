@@ -5,7 +5,7 @@
 - Current title: Graduate Student
 - Skills: 
 Python, JavaScript/TypeScript, C/C++, Java, R, Machine Learning
-- Hobbies -> :skier: :chess_pawn: :video_game: :tent:
+- 'Hobbies:' :skier: :chess_pawn: :video_game: :tent:
 
 # :school: Education
 
