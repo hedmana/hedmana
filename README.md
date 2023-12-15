@@ -6,6 +6,11 @@
 - **Skills:** Python, JavaScript/TypeScript, C/C++, Java, R, Machine Learning
 - **Hobbies:** :skier: :chess_pawn: :video_game: :tent:
 
+# :construction: Projects
+- React based web app for tracking expenses: https://github.com/hedmana/expenses
+- Tower defense game in Python: https://github.com/hedmana/python_tower_defense
+- Chess board implemented with C++ and SFML: https://github.com/hedmana/chess
+
 # :school: Education
 
 ### Master of Science (Technology), 2023-2025
