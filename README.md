@@ -9,7 +9,7 @@
 # :construction: Projects
 - React based web app for tracking expenses: https://github.com/hedmana/expenses
 - Tower defense game in Python: https://github.com/hedmana/python_tower_defense
-- Chess board implemented with C++ and SFML: https://github.com/hedmana/chess
+- Chess board in C++ implemented with SFML: https://github.com/hedmana/chess
 
 # :school: Education
 
