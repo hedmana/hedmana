@@ -1,8 +1,24 @@
-<p align="center">
-  <img src="gifs/welcome.gif" alt="Welcome!">
-</p>
+# :wave: Introduction  
 
-## :link: Links
+- Name: Axel Hedman
+- Age: 23
+- Current Title: Graduate Student
+- Skills: Python, JavaScript/TypeScript, C/C++, Java, R, Machine Learning
+- Hobbies: :skier: :chess_pawn: :video_game: :tent:
+
+# :school: Education
+
+**Master of Science (Technology), 2023-2025**
+- School: Aalto University, Department of Computer Science
+- Major: Bioinformatics and Digital Health
+- Expected graduation: May 2025
+
+**Bachelor of Science (Technology), 2020-2023**
+- School: Aalto University, Department of Electrical Engineering
+- Major: Bioinformation Technology, Minor: Industrial Engineering and Management
+
+
+# :link: Links
 
 <p align="center">
   <a href="mailto:axelhedman00@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
