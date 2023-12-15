@@ -1,22 +1,21 @@
 # :wave: Introduction  
 
-- Name: Axel Hedman
-- Age: 23
-- Current title: Graduate Student
-- Skills: 
-Python, JavaScript/TypeScript, C/C++, Java, R, Machine Learning
-- Hobbies: <i> :skier: :chess_pawn: :video_game: :tent:
+- **Name:** Axel Hedman
+- **Age:** 23
+- **Current title:** Graduate Student
+- **Skills:** Python, JavaScript/TypeScript, C/C++, Java, R, Machine Learning
+- **Hobbies:** :skier: :chess_pawn: :video_game: :tent:
 
 # :school: Education
 
-**Master of Science (Technology), 2023-2025**
-- School: Aalto University, Department of Computer Science
-- Major: Bioinformatics and Digital Health
-- Expected graduation: May 2025
+### Master of Science (Technology), 2023-2025
+- **School:** Aalto University, Department of Computer Science
+- **Major:** Bioinformatics and Digital Health
+- **Expected graduation:** May 2025
 
-**Bachelor of Science (Technology), 2020-2023**
-- School: Aalto University, Department of Electrical Engineering
-- Major Bioinformation Technology, Minor: Industrial Engineering and Management
+### Bachelor of Science (Technology), 2020-2023
+- **School:** Aalto University, Department of Electrical Engineering
+- **Major:** Bioinformation Technology, **Minor:** Industrial Engineering and Management
 
 
 # :link: Links
