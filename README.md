@@ -7,9 +7,9 @@
 - **Hobbies:** :skier: :chess_pawn: :video_game: :tent:
 
 # :construction: Projects
-- React based web app for tracking expenses: https://github.com/hedmana/expenses
-- Tower defense game in Python: https://github.com/hedmana/python_tower_defense
-- Chess board in C++ implemented with SFML: https://github.com/hedmana/chess
+- React based web app for tracking shared expenses: https://github.com/hedmana/expenses
+- Tower defense game in Python (PyGame, PyQT6): https://github.com/hedmana/python_tower_defense
+- Chess board in C++ (SFML): https://github.com/hedmana/chess
 
 # :school: Education
 
