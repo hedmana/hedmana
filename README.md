@@ -3,7 +3,7 @@
 - **Name:** Axel Hedman
 - **Age:** 23
 - **Current role:** Graduate Student
-- **Skills:** Python, JavaScript/TypeScript, C/C++, Java, R, Machine Learning
+- **Skills:** Python, JavaScript/TypeScript, C/C++, Java, R, Machine Learning/AI
 - **Hobbies:** :skier: :chess_pawn: :video_game: :tent:
 
 # :construction: Projects
