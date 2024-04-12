@@ -10,7 +10,7 @@
 - React based web app for tracking shared expenses: https://github.com/hedmana/expenses
 - Tower defense game in Python (PyGame, PyQT6): https://github.com/hedmana/python_tower_defense
 - Chess board in C++ (SFML): https://github.com/hedmana/chess
-- Smaller ML related projects: 
+- Smaller ML-related projects: 
   - https://github.com/hedmana/ml5_js
   - https://github.com/hedmana/neural_network
 
