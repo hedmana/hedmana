@@ -1,4 +1,4 @@
-![Header]("images/djuphamn.png")
+![plot](./images/djuphamn.png)
 
 
 # :wave: Introduction  
