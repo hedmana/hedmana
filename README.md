@@ -1,3 +1,6 @@
+![Header]("images/djuphamn.png")
+
+
 # :wave: Introduction  
 
 - **Name:** Axel Hedman
