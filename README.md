@@ -4,7 +4,7 @@
 # :wave: Introduction  
 
 - **Age:** 24
-- **Current roles:** Master's Student, Software Developer
+- **Current roles:** Master's Student
 - **Skills:** Python, JavaScript/TypeScript, C/C++, Java, R, Machine Learning/AI
 - **Hobbies:** :skier: :chess_pawn: :video_game: :tent:
 
