@@ -20,12 +20,11 @@
 # :school: Education
 
 ### Master of Science (Technology), 2023-2025
-- **School:** Aalto University, Department of Computer Science
-- **Major:** Bioinformatics and Digital Health
-- **Expected graduation:** May 2025
+- **University:** Aalto University, Department of Computer Science
+- **Major:** Bioinformatics and Digital Health, **Minor:** Exchange semester at ETH Zürich's department of Health Sciences and Technology 
 
 ### Bachelor of Science (Technology), 2020-2023
-- **School:** Aalto University, Department of Electrical Engineering
+- **University:** Aalto University, Department of Electrical Engineering
 - **Major:** Bioinformation Technology, **Minor:** Industrial Engineering and Management
 
 
@@ -36,5 +35,4 @@
   <a href="https://www.instagram.com/hedman.axel/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.linkedin.com/in/axel7/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://discord.com/users/knappenh#7896"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
-  <a href="https://twitter.com/knappen_h"><img src="https://img.icons8.com/color/96/000000/twitterx.png" alt="twitter"/></a>
 </p>
