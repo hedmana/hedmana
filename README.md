@@ -10,7 +10,7 @@
 
 # :construction: Projects
 - React based blog app: https://github.com/hedmana/blogs
-- React based frontend for an expense tracking app: https://github.com/hedmana/expenses
+- React based frontend for expense tracking: https://github.com/hedmana/expenses
 - Tower defense game in Python (PyGame, PyQT6): https://github.com/hedmana/python_tower_defense
 - Chess board in C++ (SFML): https://github.com/hedmana/chess
 - Smaller ML-related projects: 
