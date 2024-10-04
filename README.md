@@ -9,10 +9,10 @@
 - **Hobbies:** :skier: :chess_pawn: :video_game: :tent:
 
 # :construction: Projects
-- React based blog app: https://github.com/hedmana/blogs
-- React based frontend for expense tracking: https://github.com/hedmana/expenses
-- Tower defense game in Python (PyGame, PyQT6): https://github.com/hedmana/python_tower_defense
 - Chess board in C++ (SFML): https://github.com/hedmana/chess
+- React based blog app: https://github.com/hedmana/blogs
+- Tower defense game in Python (PyGame, PyQT6): https://github.com/hedmana/python_tower_defense
+- React based frontend for expense tracking: https://github.com/hedmana/expenses
 - Smaller ML-related projects: 
   - https://github.com/hedmana/ml5_js
   - https://github.com/hedmana/neural_network
