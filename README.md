@@ -12,7 +12,7 @@
 - Chess board: https://github.com/hedmana/chess
 - Blog app: https://github.com/hedmana/blogs
 - Tower defense game: https://github.com/hedmana/python_tower_defense
-- Expense tracking: https://github.com/hedmana/expenses
+- Expense tracking: https://github.com/hedmana/expenses-frontend
 - ML-related projects: 
   - https://github.com/hedmana/ml5_js
   - https://github.com/hedmana/neural_network
