@@ -1,4 +1,4 @@
-![plot](./images/djuphamn.png)
+![](./images/github_banner.png)
 
 
 # :wave: Introduction  
