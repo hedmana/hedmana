@@ -3,9 +3,9 @@
 
 # :wave: Introduction  
 
-- **Age:** 24
+- **Age:** 25
 - **Current roles:** Master's Student
-- **Skills:** Python, JavaScript/TypeScript, C/C++, Java, R, Machine Learning/AI
+- **Skills:** Python, JavaScript/TypeScript, C/C++, Java, R, PyTorch, TensorFlow, NumPy, Pandas
 - **Hobbies:** :skier: :chess_pawn: :video_game: :tent:
 
 # :construction: Projects
