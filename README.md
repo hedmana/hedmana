@@ -10,6 +10,7 @@
 
 # :construction: Projects
 - Chess board: https://github.com/hedmana/chess
+- My soon-to-be-deployed personal website: https://github.com/hedmana/personal-site
 - Blog app: https://github.com/hedmana/blogs
 - Tower defense game: https://github.com/hedmana/python_tower_defense
 - Expense tracking: https://github.com/hedmana/expenses-frontend
