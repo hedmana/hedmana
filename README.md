@@ -4,8 +4,8 @@
 # :wave: Introduction  
 
 - **Age:** 25
-- **Current roles:** Master's Student
-- **Skills:** Python, JavaScript/TypeScript, C/C++, Java, R, PyTorch, TensorFlow, NumPy, Pandas
+- **Current roles:** Research Assistant
+- **Languages:** Python, JavaScript/TypeScript, C, C++, Java, R
 - **Hobbies:** :skier: :chess_pawn: :video_game: :tent:
 
 # :construction: Projects
@@ -22,11 +22,11 @@
 
 ### Master of Science (Technology), 2023-2025
 - **University:** Aalto University, Department of Computer Science
-- **Major:** Bioinformatics and Digital Health, **Minor:** Exchange semester at ETH Zürich's department of Health Sciences and Technology 
+- **Major:** Computer Science, **Minor:** Exchange semester at ETH Zürich's department of Health Sciences and Technology 
 
 ### Bachelor of Science (Technology), 2020-2023
 - **University:** Aalto University, Department of Electrical Engineering
-- **Major:** Bioinformation Technology, **Minor:** Industrial Engineering and Management
+- **Major:** Bioinformatics, **Minor:** Industrial Engineering and Management
 
 
 # :link: Links
