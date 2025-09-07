@@ -21,11 +21,11 @@
 # :school: Education
 
 ### Master of Science (Technology), 2023-2025
-- **University:** Aalto University, Department of Computer Science
+- **University:** Aalto University
 - **Major:** Computer Science, **Minor:** Exchange semester at ETH Zürich's department of Health Sciences and Technology 
 
 ### Bachelor of Science (Technology), 2020-2023
-- **University:** Aalto University, Department of Electrical Engineering
+- **University:** Aalto University
 - **Major:** Bioinformatics, **Minor:** Industrial Engineering and Management
 
 
