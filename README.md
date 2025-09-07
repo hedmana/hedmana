@@ -1,5 +1,4 @@
-![](./images/axel_github_banner.png)
-
+![](./images/github_banner.png)
 
 # :wave: Introduction  
 
