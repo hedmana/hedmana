@@ -3,7 +3,7 @@
 # :wave: Introduction  
 
 - **Age:** 25
-- **Languages:** Python, JavaScript/TypeScript, C, C++, Java, R
+- **Languages:** Python, JavaScript/TypeScript, C, C++, Java, SQL, R
 - **Hobbies:** :skier: :chess_pawn: :video_game: :tent:
 
 # :construction: Projects
