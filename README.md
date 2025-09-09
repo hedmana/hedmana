@@ -3,7 +3,6 @@
 # :wave: Introduction  
 
 - **Age:** 25
-- **Current roles:** Research Assistant
 - **Languages:** Python, JavaScript/TypeScript, C, C++, Java, R
 - **Hobbies:** :skier: :chess_pawn: :video_game: :tent:
 
