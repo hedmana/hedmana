@@ -10,8 +10,7 @@
     "exchange": "Health Sciences & Technology @ ETH Zürich",
     "completed": "BS Bioinformatics @ Aalto University"
   },
-  "interests": ["🎿 skiing", "♟️ chess", "🎮 gaming", "🏕️ camping"],
-  "status": "available for collaboration",
+  "interests": ["⛷️", "♟️", "🎮", "🏕️"],
   "website": "https://www.axelhedman.fi/",
   "contact": "axelhedman00@gmail.com"
 }
@@ -38,12 +37,4 @@
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
-## GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hedmana/hedmana/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hedmana/hedmana/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hedmana/hedmana/output/github-snake.svg" />
-</picture>
 
