@@ -1,39 +1,49 @@
-![](./images/axel_github_banner.png)
+## About Me
 
+```json
+{
+  "name": "Axel Hedman",
+  "age": 25,
+  "location": "Helsinki, Finland",
+  "education": {
+    "current": "MS Computer Science (Bioinformatics) @ Aalto University",
+    "exchange": "Health Sciences & Technology @ ETH Zürich",
+    "completed": "BS Bioinformatics @ Aalto University"
+  },
+  "interests": ["🎿 skiing", "♟️ chess", "🎮 gaming", "🏕️ camping"],
+  "status": "available for collaboration",
+  "website": "https://www.axelhedman.fi/",
+  "contact": "axelhedman00@gmail.com"
+}
+```
 
-# :wave: Introduction  
-
-- **Age:** 25
-- **Current roles:** Research Assistant
-- **Languages:** Python, JavaScript/TypeScript, C, C++, Java, R
-- **Hobbies:** :skier: :chess_pawn: :video_game: :tent:
-
-# :construction: Projects
-- Chess board: https://github.com/hedmana/chess
-- Personal website: https://github.com/hedmana/personal-site
-- Blog app: https://github.com/hedmana/blogs
-- Tower defense game: https://github.com/hedmana/python_tower_defense
-- Expense tracking: https://github.com/hedmana/expenses-frontend
-- ML-related projects: 
-  - https://github.com/hedmana/ml5_js
-  - https://github.com/hedmana/neural_network
-
-# :school: Education
-
-### Master of Science (Technology), 2023-2025
-- **University:** Aalto University
-- **Major:** Computer Science, **Minor:** Exchange semester at ETH Zürich's department of Health Sciences and Technology 
-
-### Bachelor of Science (Technology), 2020-2023
-- **University:** Aalto University
-- **Major:** Bioinformatics, **Minor:** Industrial Engineering and Management
-
-
-# :link: Links
+## Toolkit
 
 <p align="center">
-  <a href="mailto:axelhedman00@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.instagram.com/hedman.axel/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.linkedin.com/in/axel7/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://discord.com/users/knappenh#7896"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hedmana/hedmana/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hedmana/hedmana/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hedmana/hedmana/output/github-snake.svg" />
+</picture>
+
