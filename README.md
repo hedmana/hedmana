@@ -8,9 +8,9 @@
   "age": 25,
   "location": "Helsinki, Finland",
   "education": {
-    "msc": "MS Computer Science (Bioinformatics) @ Aalto University",
+    "msc": "MSc Computer Science (Bioinformatics) @ Aalto University",
     "exchange": "Health Sciences & Technology @ ETH Zürich",
-    "bsc": "BS Bioinformatics @ Aalto University"
+    "bsc": "BSc Bioinformatics @ Aalto University"
   },
   "interests": ["⛷️", "♟️", "🎮", "🏕️"],
   "website": "https://www.axelhedman.fi/",
